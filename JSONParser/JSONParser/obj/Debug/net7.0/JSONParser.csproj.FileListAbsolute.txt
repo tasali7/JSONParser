@@ -1,0 +1,17 @@
+C:\Users\Ali\Documents\GitHub\JSONParser\JSONParser\bin\Debug\net7.0\JSONParser.exe
+C:\Users\Ali\Documents\GitHub\JSONParser\JSONParser\bin\Debug\net7.0\JSONParser.deps.json
+C:\Users\Ali\Documents\GitHub\JSONParser\JSONParser\bin\Debug\net7.0\JSONParser.runtimeconfig.json
+C:\Users\Ali\Documents\GitHub\JSONParser\JSONParser\bin\Debug\net7.0\JSONParser.dll
+C:\Users\Ali\Documents\GitHub\JSONParser\JSONParser\bin\Debug\net7.0\JSONParser.pdb
+C:\Users\Ali\Documents\GitHub\JSONParser\JSONParser\obj\Debug\net7.0\JSONParser.csproj.AssemblyReference.cache
+C:\Users\Ali\Documents\GitHub\JSONParser\JSONParser\obj\Debug\net7.0\JSONParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali\Documents\GitHub\JSONParser\JSONParser\obj\Debug\net7.0\JSONParser.AssemblyInfoInputs.cache
+C:\Users\Ali\Documents\GitHub\JSONParser\JSONParser\obj\Debug\net7.0\JSONParser.AssemblyInfo.cs
+C:\Users\Ali\Documents\GitHub\JSONParser\JSONParser\obj\Debug\net7.0\JSONParser.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Documents\GitHub\JSONParser\JSONParser\obj\Debug\net7.0\JSONParser.dll
+C:\Users\Ali\Documents\GitHub\JSONParser\JSONParser\obj\Debug\net7.0\refint\JSONParser.dll
+C:\Users\Ali\Documents\GitHub\JSONParser\JSONParser\obj\Debug\net7.0\JSONParser.pdb
+C:\Users\Ali\Documents\GitHub\JSONParser\JSONParser\obj\Debug\net7.0\JSONParser.genruntimeconfig.cache
+C:\Users\Ali\Documents\GitHub\JSONParser\JSONParser\obj\Debug\net7.0\ref\JSONParser.dll
+C:\Users\Ali\Documents\GitHub\JSONParser\JSONParser\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Ali\Documents\GitHub\JSONParser\JSONParser\obj\Debug\net7.0\JSONParser.csproj.CopyComplete
